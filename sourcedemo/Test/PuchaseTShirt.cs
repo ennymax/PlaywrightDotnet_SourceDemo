@@ -8,7 +8,7 @@ public class PuchaseTShirt : BasePage
 {
 
     [Test]
-    public async Task HasTitle()
+    public async Task PurchaseTshirt()
     {
         // Initialize page objects
         LoginPage loginPage = new(Page);
