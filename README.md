@@ -7,4 +7,5 @@ The complete code is updated to the latest version of Playwright with the latest
 
 # Running the Test
 Execute the script below in the Terminal
-dotnet test --settings:.runsettings 
+1. cd to the sourcedemo directory
+2. dotnet test --settings:.runsettings 

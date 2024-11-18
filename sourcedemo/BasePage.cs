@@ -26,7 +26,7 @@ namespace sourcedemo
             var playwright = await Microsoft.Playwright.Playwright.CreateAsync();
 
             // Launch browser
-            Browser = await playwright.Webkit.LaunchAsync(_launchOptions);
+            Browser = await playwright.Chromium.LaunchAsync(_launchOptions);
 
             // Configure Browser Context in incognito mode
             Context = await Browser.NewContextAsync(new BrowserNewContextOptions

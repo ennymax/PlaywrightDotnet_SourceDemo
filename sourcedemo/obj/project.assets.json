@@ -1945,11 +1945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\playwrightcsharp\\sourcedemo\\sourcedemo.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\PlaywrightDotnet_SourceDemo\\sourcedemo\\sourcedemo.csproj",
       "projectName": "sourcedemo",
-      "projectPath": "C:\\Users\\HP\\Desktop\\playwrightcsharp\\sourcedemo\\sourcedemo.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\PlaywrightDotnet_SourceDemo\\sourcedemo\\sourcedemo.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\playwrightcsharp\\sourcedemo\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\PlaywrightDotnet_SourceDemo\\sourcedemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -44,9 +44,5 @@ public class PuchaseTShirt : BasePage
         // Test User Action on the Order Details Page
         await checoutCompletePage.OrderDetailPageUserActionAsync();
 
-
-       await Task.Delay(200000); // Wait for 2 seconds
-
-
     }
 }
